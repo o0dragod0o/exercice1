@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1763453478 source:c:\users\kylia\documents\cours\informatique\programmes\exercice1\utils.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"utils.h"
+
+1763456011 c:\users\kylia\documents\cours\informatique\programmes\exercice1\utils.h
+
+1763456013 source:c:\users\kylia\documents\cours\informatique\programmes\exercice1\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"utils.h"
+
